@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px"/>
 
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadMudasir4747&color=blue)
+
 
 
 
