@@ -20,11 +20,18 @@
 
 </p>
 
-### 📊 GitHub Stats:
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadMudasir4747&show_icons=true&theme=dark)
-
 ### 📊 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMudasir4747&layout=compact&theme=dark)
+
+### 🚀 Tech Stack:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px"/>
+</p>
+
 
 
 <!---
