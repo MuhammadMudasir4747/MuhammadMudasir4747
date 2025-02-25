@@ -20,6 +20,13 @@
 
 </p>
 
+### 📊 GitHub Stats:
+![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadMudasir4747&show_icons=true&theme=dark)
+
+### 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMudasir4747&layout=compact&theme=dark)
+
+
 
 
 
