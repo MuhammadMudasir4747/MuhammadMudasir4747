@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @MuhammadMudasir4747  
 
 ## 🚀 About Me  
-- 💻 I design UI for Desktops and Phone applications
+- 💻 I design UI for Desktop and Phone applications
 - ⚡ I also work on **backend development** using **Node.js with Express**  
 - 🌱 Constantly learning and improving my skills in **full-stack web development**  
 - 📫 Reach me at **muhmudasir4747@gmail.com**
