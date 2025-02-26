@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @MuhammadMudasir4747  
+# Muhammad Mudasir
 
 ## 🚀 About Me  
 - 💻 I design UI for Desktop and Phone applications
