@@ -20,25 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/>
 </p>
 
-### 📊 Languages & Frameworks:
-```md
-JavaScript       ██████████░░░░░  80%  
-TypeScript       ████████░░░░░░░  60%  
-React           ██████████░░░░░  80%  
-Angular         ███████░░░░░░░░  50%  
-Node.js         ██████████░░░░░  75%  
-Express.js      ████████░░░░░░░  65%  
-MongoDB         ███████░░░░░░░░  50%  
+### 📊 GitHub Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMudasir4747&layout=compact&langs_count=8&theme=radical)
 
-
-
-
-
-
-
-
-
-<!---
-MuhammadMudasir4747/MuhammadMudasir4747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
