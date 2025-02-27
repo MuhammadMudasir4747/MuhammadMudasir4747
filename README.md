@@ -23,3 +23,11 @@
 ### 📊 GitHub Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMudasir4747&layout=compact&langs_count=8&theme=radical)
 
+### 🚀 Technologies & Frameworks:
+![React](https://img.shields.io/badge/React-60%25-blue?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/Angular-50%25-red?style=flat&logo=angular)
+![Node.js](https://img.shields.io/badge/Node.js-75%25-green?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-65%25-grey?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-50%25-brightgreen?style=flat&logo=mongodb)
+
+
