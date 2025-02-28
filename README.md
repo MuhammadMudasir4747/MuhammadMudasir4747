@@ -1,7 +1,8 @@
 # Muhammad Mudasir
 
 ## 🚀 About Me  
-- 💻 I code frontends for your Desktops and Phone applications
+- 🎓 Studying Software Engineering at NUST 
+- 💻 Frontend Developer | Building responsive web & mobile applications with React, Angular & React Native
 - ⚡ I also work on **backend development** using **Node.js with Express**  
 - 🌱 Constantly learning and improving my skills in **full-stack web development**  
 - 📫 Reach me at **muhmudasir4747@gmail.com**
