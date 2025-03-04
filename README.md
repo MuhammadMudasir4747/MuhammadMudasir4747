@@ -21,8 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/>
 </p>
 
-### 📊 GitHub Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMudasir4747&layout=compact&langs_count=8&theme=radical)
+
 
 
 
