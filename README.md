@@ -22,7 +22,8 @@
 </p>
 
 
-
+### 📊 GitHub Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMudasir4747&layout=compact&langs_count=8&theme=radical)
 
 
 
