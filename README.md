@@ -2,11 +2,10 @@
 
 ## 🚀 About Me  
 - 🎓 Studying Software Engineering at NUST 
-- 💻 Frontend Developer | Building responsive web & mobile applications with React, Angular & React Native
-- ⚡ I also work on **backend development** using **Node.js with Express**  
-- 🌱 Constantly learning and improving my skills in **full-stack web development**  
+- 💻 Frontend Excellence | Building responsive web & mobile applications with React & React Native
+- ⚡Full-Stack Development with Angular + ASP.NET Core 8 MVC 
 - 📫 Reach me at **muhmudasir4747@gmail.com**
-
+- 
 - ### 🚀 Languages and Tools:
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
